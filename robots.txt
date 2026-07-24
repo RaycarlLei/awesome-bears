@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raycarllei.github.io/awesome-bears/sitemap.xml
