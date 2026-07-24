@@ -2,6 +2,8 @@
 
 **Awesome Bears** is the public brand of **awesome-bears, inc.**, an independent AI product company founded by Ray.
 
+[View the public web reference](https://raycarllei.github.io/awesome-bears/)
+
 The company builds focused software products under a family of bear characters:
 
 - [TraderBear](https://trader-bear.com/) — a paper-first AI trading agent and virtual pet for prediction markets.
