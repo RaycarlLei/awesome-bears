@@ -24,5 +24,8 @@ Ray is the founder of Awesome Bears. His public founder profiles are available o
 - [Founder profile](https://awesome-bears.com/about/ray/)
 - [TraderBear official website](https://trader-bear.com/)
 - [Company profile on TraderBear](https://trader-bear.com/blog/awesome-bears-company-behind-traderbear)
+- [Awesome Bears repositories on GitHub](https://github.com/topics/awesome-bears)
+- [TraderBear repositories on GitHub](https://github.com/topics/traderbear)
+- [Trader Bear repositories on GitHub](https://github.com/topics/trader-bear)
 
 This public repository exists to provide a stable, crawlable reference for the company name, founder, products, and official domains.
