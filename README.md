@@ -7,7 +7,7 @@
 The company builds focused software products under a family of bear characters:
 
 - [TraderBear](https://trader-bear.com/) — a paper-first AI trading agent and virtual pet for prediction markets.
-- [WordAI](https://raycarllei.github.io/WordAIsupport/) — an iOS dictionary and language app.
+- [WordAI](https://awesome-bears.com/wordai/) — an iOS dictionary and language app.
 - [ChefBear](https://www.chef-bear.com/) — an iOS menu and food assistant.
 - [TraderBear Tools](https://trader-bear.com/impermanent-loss-calculator) — market and liquidity-pool utilities within TraderBear.
 
